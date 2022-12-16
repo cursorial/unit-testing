@@ -1,0 +1,10 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "Example unit test implementation",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Michael Curry"
+}
